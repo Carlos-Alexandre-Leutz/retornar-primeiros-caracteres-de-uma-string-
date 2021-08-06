@@ -1,0 +1,1 @@
+# retornar-primeiros-caracteres-de-uma-string-
